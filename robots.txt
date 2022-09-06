@@ -1,0 +1,8 @@
+User-agent: *
+Disallow: 
+Disallow: /cgi-bin/
+Sitemap: https://www.centric-us.com/sitemap.xml
+
+Which services would you like quoted? (check all that may apply) *
+
+Other Information about Your Project?

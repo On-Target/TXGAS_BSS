@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "https://centric-tx.com/*"
+  to = "https://www.centric-us.com/:splat"
+  status = 301
+  force = true
